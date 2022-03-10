@@ -1,0 +1,10 @@
+{
+  "PRIVATE_KEY": "",
+  "INFURA_KEY": "",
+  "OWNER_ADDRESS": "0xd6381854ce95aabc8a0c6eb7a2e8a0749cbf8a39",
+  "TOKEN_ADDRESS": "0xeb6dffb87315a2bdf4dedf72b993adc960773a0d",
+  "Start": 1,
+  "End": 5967,
+  "TESTNET": false,
+  "API_KEY": ""
+}
