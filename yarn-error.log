@@ -1,0 +1,51 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\ewaR\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add opensea-js
+
+PATH: 
+  C:\Users\ewaR\AppData\Roaming\npm;C:\Program Files\nodejs\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\ewaR\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\ewaR\AppData\Local\Programs\Python\Python310\;C:\Users\ewaR\AppData\Local\Microsoft\WindowsApps;C:\Users\ewaR\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\ewaR\AppData\Local\GitHubDesktop\bin;C:\Users\ewaR\.dotnet\tools;C:\Users\ewaR\AppData\Local\gitkraken\bin;C:\Users\ewaR\AppData\Roaming\npm;C:\Users\ewaR\AppData\Local\Programs\Python\Python310\Scripts;
+
+Yarn version: 
+  1.22.17
+
+Node version: 
+  17.4.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: ENOTEMPTY: directory not empty, rmdir 'C:\Users\ewaR\AppData\Local\Yarn\Cache\v6\.tmp\7ff8dac337b095c417e7d9f2c17e8731'
+
+npm manifest: 
+  {
+    "name": "npm-init-example",
+    "version": "1.0.0",
+    "description": "example package.json",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "example",
+      "package.json",
+      "npm",
+      "init"
+    ],
+    "author": "Resat Akkus resatakkus10@gmail.com",
+    "license": "ISC",
+    "dependencies": {
+      "axios": "^0.26.1",
+      "corejs": "^1.0.0",
+      "ethereumjs-block": "^2.2.2",
+      "urix": "^0.1.0",
+      "uuid": "^8.3.2",
+      "web3": "^1.7.1",
+      "yarn": "^1.22.17"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

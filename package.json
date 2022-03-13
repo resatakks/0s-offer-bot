@@ -1,0 +1,30 @@
+{
+  "name": "npm-init-example",
+  "version": "1.0.0",
+  "description": "example package.json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "example",
+    "package.json",
+    "npm",
+    "init"
+  ],
+  "author": "Resat Akkus resatakkus10@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "@0x/utils": "^6.5.1",
+    "axios": "^0.26.1",
+    "corejs": "^1.0.0",
+    "enquirer": "^2.3.6",
+    "ethereumjs-block": "^2.2.2",
+    "hdwalletprovider": "^1.7.0",
+    "opensea-js": "^3.0.0",
+    "urix": "^0.1.0",
+    "uuid": "^8.3.2",
+    "web3": "^1.7.1",
+    "yarn": "^1.22.17"
+  }
+}
